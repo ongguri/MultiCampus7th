@@ -1,1 +1,3 @@
-# MultiCampus7th
+# [멀티캠퍼스 Back-end 7th]
+
+## 스터디 방입니다.
