@@ -8,7 +8,7 @@ def solution(polynomial):
             num += int(p)
         else:
             if p == "x": poly += 1
-            else: poly += int(p[:len(p)-1])
+            else: poly += int(p[:-1])
     
     if poly == 0:
         answer = str(num)
